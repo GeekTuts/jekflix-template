@@ -9,7 +9,7 @@ tags:
   - theme
   - netlify
 email: youremail@xyz.com
-disqus_username: disqus_username
+disqus_username: disqus_geektuts
 show_hero: true
 menu:
   - title: Home
